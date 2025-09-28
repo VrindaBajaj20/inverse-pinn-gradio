@@ -1,0 +1,9 @@
+gradio 
+torch 
+numpy 
+scipy 
+matplotlib 
+scikit-learn 
+pandas 
+yfinance 
+hmmlearn
